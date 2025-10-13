@@ -9,12 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Test-jig**
-- 🌱 I’m learning **Machine Learning, Flask, RTOS**
+- 🔭 I’m currently working on **Wi-SUN**
+- 🌱 I’m learning **freeRTOS,STM32**
 - 💬 Ask me about **Embedded Systems, IoT, Python, ESP32**
 - 📫 Reach me at **fanibharehimanshu@gmail.com**
 - ⚡ Fun fact: I automate everything I can 😄
-
 ---
 
 ### 🌐 Connect with me:
@@ -31,16 +30,7 @@
   <!-- Standard icons from skillicons -->
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,linux,raspberrypi,vscode&theme=dark" />
   <br/>
-
-  <!-- Custom icons (GitHub-safe URLs) -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fusion-360/fusion-360.png" alt="Fusion 360" width="40" height="40" title="Fusion 360"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/eagle/eagle.png" alt="Eagle" width="40" height="40" title="Autodesk Eagle"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/STM32_logo.svg" alt="STM32" width="40" height="40" title="STM32 Microcontrollers"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Embedded C" width="40" height="40" title="Embedded C"/>
-  <img src="https://raw.githubusercontent.com/FreeRTOS/FreeRTOS-Kernel/main/images/FreeRTOS_logo.png" alt="FreeRTOS" width="40" height="40" title="FreeRTOS"/>
 </p>
-
-
 ---
 
 ### 📊 GitHub Stats:
