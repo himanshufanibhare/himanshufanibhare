@@ -28,8 +28,17 @@
 
 ### 🧠 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,linux,freeRTOS,raspberrypi,vscode&theme=dark" />
+  <!-- Common Tech Stack -->
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,linux,raspberrypi,vscode&theme=dark" />
+  
+  <!-- Additional Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Fusion360_Logo.svg" alt="Fusion 360" width="40" height="40" title="Fusion 360"/>
+  <img src="https://seeklogo.com/images/A/autodesk-eagle-logo-7E4E6F9453-seeklogo.com.png" alt="Eagle" width="40" height="40" title="Autodesk Eagle"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/ST_logo.svg" alt="STM32" width="40" height="40" title="STM32 Microcontrollers"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/embedded-c.svg" alt="Embedded C" width="40" height="40" title="Embedded C"/>
+  <img src="https://www.freertos.org/fr-content-src/uploads/2018/09/FreeRTOS_logo.svg" alt="FreeRTOS" width="40" height="40" title="FreeRTOS"/>
 </p>
+
 
 ---
 
