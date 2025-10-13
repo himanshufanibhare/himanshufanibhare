@@ -28,7 +28,7 @@
 
 ### 🧠 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,flask,html,css,git,linux,mysql,opencv,tensorflow,raspberrypi,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,linux,freeRTOS,raspberrypi,vscode&theme=dark" />
 </p>
 
 ---
