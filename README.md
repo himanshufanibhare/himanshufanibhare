@@ -2,12 +2,13 @@
   <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/git-header.svg" alt="header" width="50%" height="50%" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engineer;🎨+3D+Designer;💻+PCB+Designer;🌐+IoT+Developer;🚀+Freelancer" alt="Typing SVG" />
 </h3>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -23,13 +24,12 @@
 
 </td>
 <td align="center">
-  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/your-gif-file.gif" alt="About Me GIF" width="250" />
+  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="50" />
 </td>
 </tr>
 </table>
 
 ---
-
 
 ### 🌐 Connect with me
 <p align="center">
