@@ -9,12 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engineer;🎨+3D+Designer;💻+PCB+Designer;🌐+IoT+Developer;🚀+Freelancer" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/141887327?v=4" alt="Himanshu Fanibahre" width="150" height="150" style="border-radius:50%;"/>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Wi-SUN**
