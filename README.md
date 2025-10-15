@@ -1,25 +1,8 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00bfff;">Himanshu Fanibahre</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
 
 <h3 align="center">
-  <span style="
-    display: inline-block;
-    border-right: .15em solid #00bfff;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: typing 4s steps(40, end) infinite alternate;
-  ">
-    💡 A Passionate Electronics Engineer & IoT Enthusiast
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=💡+A+Passionate+Electronics+Engineer;🔌+IoT+and+Embedded+Systems+Developer;⚙️+Learning+FreeRTOS+and+STM32" alt="Typing SVG" />
 </h3>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-</style>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/141887327?v=4" alt="Himanshu Fanibahre" width="150" height="150" style="border-radius:50%;"/>
