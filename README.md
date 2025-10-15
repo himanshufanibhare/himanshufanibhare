@@ -12,22 +12,20 @@
 
 ### 👨‍💻 About Me
 
-<table style="border:1px solid #ffffff;">
-<tr>
-<td style="border:1px solid #ffffff;">
-
+<div align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:center;">
+  <div style="min-width:260px; text-align:left; margin-right:10px;">
+    
 - 🔭 I’m currently working on **Wi-SUN**  
 - 🌱 I’m learning **FreeRTOS & STM32**  
 - 💬 Ask me about **Embedded Systems, IoT, Python, ESP32**  
 - 📫 Reach me at **fanibharehimanshu@gmail.com**  
 - ⚡ Fun fact: *I automate everything I can 😄*
 
-</td>
-<td align="center" style="border:1px solid #ffffff;">
-  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
-</td>
-</tr>
-</table>
+  </div>
+  <div>
+    <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
+  </div>
+</div>
 
 ---
 
