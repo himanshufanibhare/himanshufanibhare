@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
-<h3 align="center">💡 A Passionate Electronics Engineer & IoT Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00bfff;">Himanshu Fanibahre</span>
+</h1>
+
+<h3 align="center">
+  <span style="
+    display: inline-block;
+    border-right: .15em solid #00bfff;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 4s steps(40, end) infinite alternate;
+  ">
+    💡 A Passionate Electronics Engineer & IoT Enthusiast
+  </span>
+</h3>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+</style>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/141887327?v=4" alt="Himanshu Fanibahre" width="150" height="150" style="border-radius:50%;"/>
