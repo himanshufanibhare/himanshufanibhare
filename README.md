@@ -1,9 +1,7 @@
-<h3 align="center">
 <h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engine[...]
-</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engineer;🎨+3D+Designer;💻+PCB+Designer;🌐+IoT+Developer;🚀+Freelancer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -47,7 +45,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshufanibhare&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=himanshufanibhare&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshufanibhare&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%" />
 </p>
 
 <p align="center">
