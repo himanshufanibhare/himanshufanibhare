@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="header" width="100%" />
+  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/git-header.svg" alt="header" width="100%" />
 </p>
 
 
