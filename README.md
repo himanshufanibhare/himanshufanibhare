@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="header" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
 
 <h3 align="center">
