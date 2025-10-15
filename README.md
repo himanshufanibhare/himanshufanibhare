@@ -10,13 +10,11 @@
 
 ---
 
----
+### 👨‍💻 About Me
 
-<h3>👨‍💻 About Me</h3>
-
-<p>
-  <img align="right" src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/your-gif-file.gif" width="250" alt="About Me GIF" />
-</p>
+<table>
+<tr>
+<td>
 
 - 🔭 I’m currently working on **Wi-SUN**  
 - 🌱 I’m learning **FreeRTOS & STM32**  
@@ -24,6 +22,14 @@
 - 📫 Reach me at **fanibharehimanshu@gmail.com**  
 - ⚡ Fun fact: *I automate everything I can 😄*
 
+</td>
+<td align="center">
+  <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
+</td>
+</tr>
+</table>
+
+---
 
 ### 🌐 Connect with me
 <p align="center">
