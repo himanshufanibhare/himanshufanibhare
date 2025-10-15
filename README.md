@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-<table style="border:none;">
+<table style="border:1px solid #ffffff;">
 <tr>
-<td style="border:none;">
+<td style="border:1px solid #ffffff;">
 
 - 🔭 I’m currently working on **Wi-SUN**  
 - 🌱 I’m learning **FreeRTOS & STM32**  
@@ -23,7 +23,7 @@
 - ⚡ Fun fact: *I automate everything I can 😄*
 
 </td>
-<td align="center" style="border:none;">
+<td align="center" style="border:1px solid #ffffff;">
   <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
 </td>
 </tr>
