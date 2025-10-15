@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Fanibahre</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engineer;🎨+3D+Designer;💻+PCB+Designer;🌐+IoT+Developer;🚀+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=💡+Embedded+Developer;⚙️+Hardware+Engineer;🎨+3D+Designer;💻+PCB+Designer;🌐+IoT+Developer;🚀+Freelancer" alt="Typing SVG" />
 </h3>
 </h3>
 
