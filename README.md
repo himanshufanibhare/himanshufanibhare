@@ -22,7 +22,7 @@
 
     </td>
     <td valign="top" align="center">
-      <img src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
+      <img align="right" src="https://github.com/himanshufanibhare/himanshufanibhare/blob/main/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" alt="About Me GIF" width="300" />
     </td>
   </tr>
 </table>
