@@ -27,8 +27,6 @@
   </tr>
 </table>
 
----
-
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-fanibhare" target="_blank">
@@ -42,14 +40,10 @@
   </a>
 </p>
 
----
-
 ### 🧠 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,linux,freertos,stm32,raspberrypi,vscode,eagle,fusion360&theme=dark" />
 </p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -61,20 +55,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshufanibhare&layout=compact&theme=tokyonight" alt="Top Languages" width="47%" />
 </p>
 
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshufanibhare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
----
 
 ### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshufanibhare&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ⭐️ *Made with ❤️ by [Himanshu Fanibahre](https://github.com/himanshufanibhare)*
